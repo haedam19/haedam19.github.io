@@ -1,0 +1,16 @@
+---
+title: "Github 블로그 포스팅 방법"
+date: 2023-01-02
+last_modified_at: 2023-01-02
+---
+
+#파일 생성 및 제목 정하기
+_post 폴더에 yyyy-mm-dd-{title}.md 형식으로 작성
+
+#머릿말 작성법
+title : 제목. 큰 따옴표로 감싼 문자열로 작성
+excerpt : 포스트 목록에서 보여지는 요약글
+categories : 카테고리
+tags : 태그
+date : 작성 날짜
+last_modified_at : 마지막 수정 날짜
