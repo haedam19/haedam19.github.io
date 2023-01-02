@@ -5,10 +5,10 @@ last_modified_at: 2023-01-02
 ---
 
 #파일 생성 및 제목 정하기
-_post 폴더에 yyyy-mm-dd-{title}.md 형식으로 작성
+_post 폴더에 yyyy-mm-dd-{title}.md 형식으로 작성. title은 영문으로.
 
 #머릿말 작성법
-title : 제목. 큰 따옴표로 감싼 문자열로 작성
+title : 제목. 큰 따옴표로 감싼 문자열로 작성. 작성하지 않을 경우 파일명에 있는 title을 제목으로 사용.
 excerpt : 포스트 목록에서 보여지는 요약글
 categories : 카테고리
 tags : 태그
