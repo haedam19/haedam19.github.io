@@ -106,8 +106,9 @@ author:
   bio              : "Hello"
   location         : "South Korea"
   email            : "reality331@khu.ac.kr"
+  github           : "https://github.com/haedam19"
   links:
-    - label: "Email"
+    - label: "Email: reality331@khu.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
