@@ -103,12 +103,12 @@ analytics:
 author:
   name             : "Jinhyeok Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello"
+  bio              : "Kyunghee University\n Majoring in software convergence since 2019"
   location         : "South Korea"
   email            : "reality331@khu.ac.kr"
   github           : "https://github.com/haedam19"
   links:
-    - label: "Email: reality331@khu.ac.kr"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
